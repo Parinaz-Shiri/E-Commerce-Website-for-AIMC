@@ -21,21 +21,21 @@ This project is a dynamic website developed using PHP and PHPMyAdmin for the dat
 
 1. **Use Case Diagrams:**
     - **Warehouse Use Case Diagram:**
-    ![Warehouse Use Case Diagram](warehouse_use_case_diagram.png)
+   <img src="Warehouse_Usecase_Diagram.png" alt="Warehouse Usecase Diagram" width="400" height="300">
     - **Sale Use Case Diagram:**
-    ![Sale Use Case Diagram](sale_use_case_diagram.png)
+    <img src="Sales_Usecase_Diagram.png" alt="Sales Usecase Diagram" width="400" height="300">
 
 2. **Class Diagram:**
-    ![Class Diagram](class_diagram.png)
+    <img src="Class_Diagram.png" alt="Class Diagram" width="400" height="300">
 
 3. **Logical Data Model (LDM) Diagram:**
-    ![LDM Diagram](ldm_diagram.png)
+    <img src="LDM_Diagram.png" alt="Logical Data Model Diagram" width="400" height="300">
 
 4. **Normalization Process:**
 
 4.1 **Before Normalization:**
 
-![Before Normalization](before_normalization.png)
+<img src="Before_Normalization.png" alt="Before Normalization" width="400" height="300">
 
 The database structure before normalization shows redundant data and potential issues with data integrity.
 
@@ -53,7 +53,7 @@ The database has achieved the second level of normalization, and the attribute i
 
 4.2 **After Normalization:**
 
-![After Normalization](after_normalization.png)
+<img src="After_Normalization.png" alt="After Normalization" width="400" height="300">
 
 The database structure after normalization demonstrates improved data integrity and reduced redundancy.
 
