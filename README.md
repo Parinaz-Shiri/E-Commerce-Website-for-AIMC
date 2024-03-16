@@ -32,12 +32,12 @@ This project is a dynamic website developed using PHP and PHPMyAdmin for the dat
 2. **Class Diagram:**
     <div style= "align-items: center; float: left;">  
     <img src="Class_Diagram.png" alt="Class Diagram" width="900" height="700" style="float: left;"/> &nbsp; &nbsp; 
-    </div>
+    </div> &nbsp; &nbsp;
 
 4. **Logical Data Model (LDM) Diagram:**
     <div style= "align-items: center; float: left;"> 
     <img src="LDM_Diagram.png" alt="Logical Data Model Diagram" width="900" height="700" style="float: left;"/> &nbsp; &nbsp; 
-    </div>
+    </div> &nbsp; &nbsp;
 
 6. **Normalization Process:**
 
