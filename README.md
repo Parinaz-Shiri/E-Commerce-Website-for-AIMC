@@ -21,17 +21,25 @@ This project is a dynamic website developed using PHP and PHPMyAdmin for the dat
 
 1. **Use Case Diagrams:**
     - **Warehouse Use Case Diagram:**
-   <img src="Warehouse_Usecase_Diagram.png" alt="Warehouse Usecase Diagram" width="400" height="300" style="float: left;"/> &nbsp; &nbsp;
+   <div style= "align-items: center; float: left;"> 
+   <img src="Warehouse_Usecase_Diagram.png" alt="Warehouse Usecase Diagram" width="500" height="700" style="float: left;"/> &nbsp; &nbsp;
+   </div>
     - **Sale Use Case Diagram:**
-    <img src="Sales_Usecase_Diagram.png" alt="Sales Usecase Diagram" width="400" height="300" style="float: left;"/> &nbsp; &nbsp;
+    <div style= "align-items: center; float: left;"> 
+    <img src="Sales_Usecase_Diagram.png" alt="Sales Usecase Diagram" width="500" height="700" style="float: left;"/> &nbsp; &nbsp;
+    </div>
 
 2. **Class Diagram:**
-    <img src="Class_Diagram.png" alt="Class Diagram" width="400" height="300" style="float: left;"/> &nbsp; &nbsp; 
+    <div style= "align-items: center; float: left;">  
+    <img src="Class_Diagram.png" alt="Class Diagram" width="500" height="500" style="float: left;"/> &nbsp; &nbsp; 
+    </div>
 
-3. **Logical Data Model (LDM) Diagram:**
-    <img src="LDM_Diagram.png" alt="Logical Data Model Diagram" width="400" height="300" style="float: left;"/> &nbsp; &nbsp; 
+4. **Logical Data Model (LDM) Diagram:**
+    <div style= "align-items: center; float: left;"> 
+    <img src="LDM_Diagram.png" alt="Logical Data Model Diagram" width="500" height="700" style="float: left;"/> &nbsp; &nbsp; 
+    </div>
 
-4. **Normalization Process:**
+6. **Normalization Process:**
 
 4.1 **Before Normalization:**
 
