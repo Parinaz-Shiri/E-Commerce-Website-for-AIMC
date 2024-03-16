@@ -31,7 +31,7 @@ This project is a dynamic website developed using PHP and PHPMyAdmin for the dat
 
 2. **Class Diagram:**
     <div style= "align-items: center; float: left;">  
-    <img src="Class_Diagram.png" alt="Class Diagram" width="700" height="700" style="float: left;"/> &nbsp; &nbsp; 
+    <img src="Class_Diagram.png" alt="Class Diagram" width="900" height="700" style="float: left;"/> &nbsp; &nbsp; 
     </div>
 
 4. **Logical Data Model (LDM) Diagram:**
