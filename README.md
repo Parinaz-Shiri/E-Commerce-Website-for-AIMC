@@ -21,21 +21,21 @@ This project is a dynamic website developed using PHP and PHPMyAdmin for the dat
 
 1. **Use Case Diagrams:**
     - **Warehouse Use Case Diagram:**
-   <img src="Warehouse_Usecase_Diagram.png" alt="Warehouse Usecase Diagram" width="400" height="300">
+   <img src="Warehouse_Usecase_Diagram.png" alt="Warehouse Usecase Diagram" width="400" height="300" style="float: left;"/> &nbsp; &nbsp;
     - **Sale Use Case Diagram:**
-    <img src="Sales_Usecase_Diagram.png" alt="Sales Usecase Diagram" width="400" height="300">
+    <img src="Sales_Usecase_Diagram.png" alt="Sales Usecase Diagram" width="400" height="300" style="float: left;"/> &nbsp; &nbsp;
 
 2. **Class Diagram:**
-    <img src="Class_Diagram.png" alt="Class Diagram" width="400" height="300">
+    <img src="Class_Diagram.png" alt="Class Diagram" width="400" height="300" style="float: left;"/> &nbsp; &nbsp; 
 
 3. **Logical Data Model (LDM) Diagram:**
-    <img src="LDM_Diagram.png" alt="Logical Data Model Diagram" width="400" height="300">
+    <img src="LDM_Diagram.png" alt="Logical Data Model Diagram" width="400" height="300" style="float: left;"/> &nbsp; &nbsp; 
 
 4. **Normalization Process:**
 
 4.1 **Before Normalization:**
 
-<img src="Before_Normalization.png" alt="Before Normalization" width="400" height="300">
+<img src="Before_Normalization.png" alt="Before Normalization" width="400" height="300" style="float: left;"/> &nbsp; &nbsp; 
 
 The database structure before normalization shows redundant data and potential issues with data integrity.
 
@@ -53,7 +53,7 @@ The database has achieved the second level of normalization, and the attribute i
 
 4.2 **After Normalization:**
 
-<img src="After_Normalization.png" alt="After Normalization" width="400" height="300">
+<img src="After_Normalization.png" alt="After Normalization" width="400" height="300" style="float: left;"/> &nbsp; &nbsp; 
 
 The database structure after normalization demonstrates improved data integrity and reduced redundancy.
 
