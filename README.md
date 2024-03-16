@@ -43,7 +43,7 @@ This project is a dynamic website developed using PHP and PHPMyAdmin for the dat
 
 4.1 **Before Normalization:**
 
-<img src="Before_Normalization.png" alt="Before Normalization" width="600" height="600" style="float: left;"/> &nbsp; &nbsp; 
+<img src="Before_Normalization.png" alt="Before Normalization" width="800" height="600" style="float: left;"/> &nbsp; &nbsp; 
 
 The database structure before normalization shows redundant data and potential issues with data integrity.
 
@@ -61,7 +61,7 @@ The database has achieved the second level of normalization, and the attribute i
 
 4.2 **After Normalization:**
 
-<img src="After_Normalization.png" alt="After Normalization" width="600" height="600" style="float: left;"/> &nbsp; &nbsp; 
+<img src="After_Normalization.png" alt="After Normalization" width="800" height="600" style="float: left;"/> &nbsp; &nbsp; 
 
 The database structure after normalization demonstrates improved data integrity and reduced redundancy.
 
