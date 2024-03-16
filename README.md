@@ -22,11 +22,11 @@ This project is a dynamic website developed using PHP and PHPMyAdmin for the dat
 1. **Use Case Diagrams:**
     - **Warehouse Use Case Diagram:**
    <div style= "align-items: center; float: left;"> 
-   <img src="Warehouse_Usecase_Diagram.png" alt="Warehouse Usecase Diagram" width="500" height="700" style="float: left;"/> &nbsp; &nbsp;
+   <img src="Warehouse_Usecase_Diagram.png" alt="Warehouse Usecase Diagram" width="600" height="700" style="float: left;"/> &nbsp; &nbsp;
    </div> &nbsp; &nbsp;
   - **Sales Use Case Diagram:** 
     <div style= "align-items: center; float: left;"> 
-    <img src="Sales_Usecase_Diagram.png" alt="Sales Usecase Diagram" width="500" height="700" style="float: left;"/> &nbsp; &nbsp;
+    <img src="Sales_Usecase_Diagram.png" alt="Sales Usecase Diagram" width="600" height="700" style="float: left;"/> &nbsp; &nbsp;
     </div>
 
 2. **Class Diagram:**
