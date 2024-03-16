@@ -24,26 +24,26 @@ This project is a dynamic website developed using PHP and PHPMyAdmin for the dat
    <div style= "align-items: center; float: left;"> 
    <img src="Warehouse_Usecase_Diagram.png" alt="Warehouse Usecase Diagram" width="500" height="700" style="float: left;"/> &nbsp; &nbsp;
    </div>
-    - **Sale Use Case Diagram:**
+  - **Sales Use Case Diagram:** 
     <div style= "align-items: center; float: left;"> 
     <img src="Sales_Usecase_Diagram.png" alt="Sales Usecase Diagram" width="500" height="700" style="float: left;"/> &nbsp; &nbsp;
     </div>
 
 2. **Class Diagram:**
     <div style= "align-items: center; float: left;">  
-    <img src="Class_Diagram.png" alt="Class Diagram" width="500" height="500" style="float: left;"/> &nbsp; &nbsp; 
+    <img src="Class_Diagram.png" alt="Class Diagram" width="700" height="700" style="float: left;"/> &nbsp; &nbsp; 
     </div>
 
 4. **Logical Data Model (LDM) Diagram:**
     <div style= "align-items: center; float: left;"> 
-    <img src="LDM_Diagram.png" alt="Logical Data Model Diagram" width="500" height="700" style="float: left;"/> &nbsp; &nbsp; 
+    <img src="LDM_Diagram.png" alt="Logical Data Model Diagram" width="700" height="700" style="float: left;"/> &nbsp; &nbsp; 
     </div>
 
 6. **Normalization Process:**
 
 4.1 **Before Normalization:**
 
-<img src="Before_Normalization.png" alt="Before Normalization" width="400" height="300" style="float: left;"/> &nbsp; &nbsp; 
+<img src="Before_Normalization.png" alt="Before Normalization" width="700" height="700" style="float: left;"/> &nbsp; &nbsp; 
 
 The database structure before normalization shows redundant data and potential issues with data integrity.
 
@@ -61,7 +61,7 @@ The database has achieved the second level of normalization, and the attribute i
 
 4.2 **After Normalization:**
 
-<img src="After_Normalization.png" alt="After Normalization" width="400" height="300" style="float: left;"/> &nbsp; &nbsp; 
+<img src="After_Normalization.png" alt="After Normalization" width="700" height="700" style="float: left;"/> &nbsp; &nbsp; 
 
 The database structure after normalization demonstrates improved data integrity and reduced redundancy.
 
