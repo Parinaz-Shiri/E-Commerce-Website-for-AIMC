@@ -1,4 +1,4 @@
-# Agricultural-Industrial-Machinery-Comapny-AIMC-
+# E-Commerce Website for Agricultural-Industrial-Machinery-Comapny-AIMC-
 
 This project is a dynamic website developed using PHP and PHPMyAdmin for the database part. The website serves as a platform for an Agriculture Industrial Machinery Company to showcase their products and allow customers to browse, add items to their cart, and proceed with transactions. It includes features for both customers and administrators.
 
